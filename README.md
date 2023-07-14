@@ -1,1 +1,1 @@
-# blinling-in-atmega32
+# blinking-in-atmega32
